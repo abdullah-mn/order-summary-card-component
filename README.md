@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL here](https://www.frontendmentor.io/solutions/mobilefirst-order-summary-card-using-flexbox-and-bem-RBXprPc5uo)
-- [Live site URL here](https://des2dev.github.io/order-summary-card-component/)
+- [Live site URL here](https://abdullah-mn.github.io/order-summary-card-component/)
 
 ## My process
 
@@ -52,4 +52,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Des2Dev](https://www.frontendmentor.io/profile/Des2Dev)
+- Frontend Mentor - [@abdullah-mn](https://www.frontendmentor.io/profile/abdullah-mn)
